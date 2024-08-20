@@ -1,0 +1,31 @@
+FONTLOG for the Sluggly Fonts
+
+This file provides detailed information on the Sluggly Font Software.
+This information should be distributed along with the Abel fonts
+and any derivative works.
+
+Basic Font Information
+
+Sluggly is a fun font created with fontself and modified in Glyphs3.
+
+Documentation can be found at http://www.madtype.com
+To contribute to the project contact Sophia Wood
+at sophia@fractalkitty.com
+ChangeLog
+
+20 Aug 2024 (sophia wood) commited to git with license
+- Initial release
+29 Nov 2023 (sophia wood) font creation
+
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Sophia Wood
+E: sophia@fractalkitty.com
+W: http://www.fractalkitty.com
+D: Designer
