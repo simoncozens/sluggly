@@ -13,7 +13,7 @@ To contribute to the project contact Sophia Wood
 at sophia@fractalkitty.com
 ChangeLog
 
-20 Aug 2024 (sophia wood) commited to git with license
+20 Aug 2024 (sophia wood) commited to git with license V.0
 - Initial release
 29 Nov 2023 (sophia wood) font creation
 
